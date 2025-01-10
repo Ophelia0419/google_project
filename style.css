@@ -28,12 +28,12 @@ html {
   }
   
   .input-area {
-    margin-top: 15px;
+    margin-top: 20px;
   }
   
   .input-box {
-    width: 400px;
-    height: 30px;
+    width: 584px;
+    height: 46px;
     border-radius: 24px;
     border: 1px solid #dfe1e5;
     padding-left: 40px;
